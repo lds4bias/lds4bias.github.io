@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bias Issues and Solutions in Recommender System
 
-You can use the [editor on GitHub](https://github.com/lds4bias/lds4bias.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Lecture Tutorial for The Web Conference 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jiawei Chen, Xiang Wang, Fuli Feng, Xiangnan He
 
 ### Markdown
 
