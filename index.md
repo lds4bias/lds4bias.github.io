@@ -6,7 +6,6 @@ Recommender systems (RS) have demonstrated great success in information seeking.
 offline evaluation and online metrics, hurting user satisfaction and trust on the recommendation service, etc. To transform the large volume of research models into practical improvements, it is highly urgent to explore the impacts of the biases and develop debiasing strategies when necessary. Therefore, bias issues and solutions
 in recommender systems have drawn great attention from both academic and industry.
 
-```markdown
 ## Presenter
 
 [Jiawei Chen](https://https://jiawei-chen.github.io/) is a Postdoc Research Fellow in School of Information Science and Technology, University of Science and Technology of China. He received Ph.D. in Computer Science from Zhejiang University in 2020. His research interests include information retrieval, data mining, and causal inference. He has published some academic papers on international conferences such as WWW, AAAI, CIKM, ICDE and ICDM. Moreover, he has served as the PC member for toptier conferences including SIGIR, WWW, ACMMM, AAAI, IJCAI and the invited reviewer for prestigious journals such as TNNLS, TKDE, TOIS.
