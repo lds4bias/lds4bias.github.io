@@ -1,4 +1,4 @@
-## Bias Issues and Solutions in Recommender System
+# Bias Issues and Solutions in Recommender System
 
 Lecture Tutorial for The Web Conference 2021
 
