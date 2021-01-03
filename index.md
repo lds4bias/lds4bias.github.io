@@ -1,14 +1,13 @@
-Bias Issues and Solutions in Recommender System
 
-Lecture Tutorial for The Web Conference 2021
 
-Jiawei Chen, Xiang Wang, Fuli Feng, Xiangnan He
+## Abstract
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Recommender systems (RS) have demonstrated great success in information seeking. Recent years have witnessed a large number of work on inventing recommendation models to better fit user behavior data. However, user behavior data is observational rather than experimental. This makes various biases widely exist in the data, including but not limited to selection bias, position bias, exposure bias. Blindly fitting the data without considering the inherent biases will result in many serious issues, e.g., the discrepancy between
+offline evaluation and online metrics, hurting user satisfaction and trust on the recommendation service, etc. To transform the large volume of research models into practical improvements, it is highly urgent to explore the impacts of the biases and develop debiasing strategies when necessary. Therefore, bias issues and solutions
+in recommender systems have drawn great attention from both academic and industry.
 
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
