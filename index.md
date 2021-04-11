@@ -6,13 +6,27 @@ Recommender systems (RS) have demonstrated great success in information seeking.
 offline evaluation and online metrics, hurting user satisfaction and trust on the recommendation service, etc. To transform the large volume of research models into practical improvements, it is highly urgent to explore the impacts of the biases and develop debiasing strategies when necessary. Therefore, bias issues and solutions
 in recommender systems have drawn great attention from both academic and industry.
 
-## Presenter
-Jiawei Chen, Xiang Wang, Fuli Feng, Xiangnan He
-## Date and time: 
+## Presenters
+**Jiawei Chen, Xiang Wang, Fuli Feng, Xiangnan He**
 
-<font face="黑体" color=green size=5>April 14, 2021, 2:00PM-5:30PM, CEST.</font>
+## Date and time 
+**April 14, 2021, 2:00PM-5:30PM, CEST**
 
-## Bio of Presenter
+## Agenda
+
+PART 0: Background (20 min)
+
+PART 1: Biases in data (50min)
+
+-------------- have a rest for 10 min
+
+PART 2: biases in recommendation results (90 min)
+
+PART 3: Bias amplification in loop and its solutions (10 min)
+
+PART 4: Summary and future direction (20 min)
+
+## Bios of Presenters
 
 [Jiawei Chen](https://https://jiawei-chen.github.io/) is a Postdoc Research Fellow in School of Information Science and Technology, University of Science and Technology of China. He received Ph.D. in Computer Science from Zhejiang University in 2020. His research interests include information retrieval, data mining, and causal inference. He has published some academic papers on international conferences such as WWW, AAAI, CIKM, ICDE and ICDM. Moreover, he has served as the PC member for toptier conferences including SIGIR, WWW, ACMMM, AAAI, IJCAI and the invited reviewer for prestigious journals such as TNNLS, TKDE, TOIS.
 
