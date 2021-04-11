@@ -6,7 +6,7 @@ Recommender systems (RS) have demonstrated great success in information seeking.
 offline evaluation and online metrics, hurting user satisfaction and trust on the recommendation service, etc. To transform the large volume of research models into practical improvements, it is highly urgent to explore the impacts of the biases and develop debiasing strategies when necessary. Therefore, bias issues and solutions
 in recommender systems have drawn great attention from both academic and industry.
 
-![avatar](GG.jpg)
+![avatar](GG1.jpg)
 ## Presenters
 **Jiawei Chen, Xiang Wang, Fuli Feng, Xiangnan He**
 
