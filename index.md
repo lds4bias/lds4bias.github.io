@@ -7,6 +7,12 @@ offline evaluation and online metrics, hurting user satisfaction and trust on th
 in recommender systems have drawn great attention from both academic and industry.
 
 ## Presenter
+Jiawei Chen, Xiang Wang, Fuli Feng, Xiangnan He
+## Date and time: 
+
+<font face="黑体" color=green size=5>April 14, 2021, 2:00PM-5:30PM, CEST.</font>
+
+## Bio of Presenter
 
 [Jiawei Chen](https://https://jiawei-chen.github.io/) is a Postdoc Research Fellow in School of Information Science and Technology, University of Science and Technology of China. He received Ph.D. in Computer Science from Zhejiang University in 2020. His research interests include information retrieval, data mining, and causal inference. He has published some academic papers on international conferences such as WWW, AAAI, CIKM, ICDE and ICDM. Moreover, he has served as the PC member for toptier conferences including SIGIR, WWW, ACMMM, AAAI, IJCAI and the invited reviewer for prestigious journals such as TNNLS, TKDE, TOIS.
 
