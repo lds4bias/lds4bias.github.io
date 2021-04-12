@@ -27,6 +27,10 @@ PART 3: Bias amplification in loop and its solutions (10 min)
 
 PART 4: Summary and future direction (20 min)
 
+## Link to the session:
+
+https://theweb.miteam.eu/asset/HQ4TwQDAummwy3Qqp
+
 ## Tutorial intended for:
 
 (1)   who are new to the bias issues and look for a tutorial to fast step into this area;
