@@ -31,6 +31,10 @@ PART 4: Summary and future direction (20 min)
 
 https://theweb.miteam.eu/asset/HQ4TwQDAummwy3Qqp
 
+## The slide is available at:
+
+https://github.com/jiawei-chen/RecDebiasing
+
 ## Tutorial intended for:
 
 (1)   who are new to the bias issues and look for a tutorial to fast step into this area;
